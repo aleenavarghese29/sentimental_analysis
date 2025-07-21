@@ -3,3 +3,5 @@ pyspark
 pandas
 matplotlib
 seaborn
+textblob
+requests
